@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	greating()
+	print(greating(), "\n")
+	print(AddInt(1, 2), "\n")
 }
